@@ -1,10 +1,10 @@
 [
     {
-        "name":"arrow-right",
+        "name":"ArrowRigthIcon",
         "icon":"https://i.ibb.co/M67pn5V/icons8-advance-50.png"
     },
     {
-        "name":"clos",
+        "name":"CloseIcon",
         "icon":"https://i.ibb.co/D99CQhD/icons8-close-50.png"
     }
 ]
