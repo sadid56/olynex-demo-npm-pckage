@@ -1,6 +1,6 @@
 {
   "name": "olynex-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -8,22 +8,17 @@
   },
   "keywords": [
     "icons",
-    "svg",
     "npm-package"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/my-icon-package.git"
+    "url": "git+https://github.com/sadid56/olynex-demo-npm-pckage"
   },
   "author": "Sadid",
   "license": "ISC",
   "description": "This is most populer software company in Olynex for test npm packag",
   "dependencies": {
-    "axios": "^1.7.2"
-  },
-  "devDependencies": {},
-  "bugs": {
-    "url": "https://github.com/yourusername/my-icon-package/issues"
-  },
-  "homepage": "https://github.com/yourusername/my-icon-package#readme"
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
 }
